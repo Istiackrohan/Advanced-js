@@ -19,8 +19,8 @@ const numbers = [3, 4, 5, 6, 7, 8];
 // const square = element => element * element;
 // const square = x => x * x;
 
-const result = numbers.map(x => x * x);
-console.log(result);
+// const result = numbers.map(x => x * x);
+// console.log(result);
 
 // const bigger = numbers.filter( x => x < 3);
 
